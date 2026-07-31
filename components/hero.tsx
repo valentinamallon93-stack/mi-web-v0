@@ -26,7 +26,7 @@ export function Hero() {
     <section id="inicio" className="relative min-h-screen w-full overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src="/images/hero-valentina.png"
+          src="/images/pachi 1.jpeg"
           alt="Valentina Mallón peinando a una clienta en su domicilio"
           fill
           priority
