@@ -16,10 +16,10 @@ type GalleryItem = {
 const items: GalleryItem[] = [
   { src: '/images/pachi1.jpeg', category: 'Balayage', span: 'tall' },
   { src: '/images/pachi.jpeg', category: 'Color' },
-  { src: '/images/service-mechas.png', category: 'Mechas' },
-  { src: '/images/service-novia.png', category: 'Novias', span: 'tall' },
+  { src: '/images/hermanapachi1jpeg', category: 'Mechas' },
+  { src: '/images/hermanapachi2.jpeg', category: 'Novias', span: 'tall' },
   { src: '/images/gallery-antes-despues.png', category: 'Antes y después' },
-  { src: '/images/service-recogido.png', category: 'Recogidos', span: 'tall' },
+  { src: '/images/hermanapachi(2).jpeg', category: 'Recogidos', span: 'tall' },
   { src: '/images/gallery-peinado.png', category: 'Recogidos' },
   { src: '/images/gallery-detalle.png', category: 'Color' },
   { src: '/images/service-corte.png', category: 'Antes y después' },
