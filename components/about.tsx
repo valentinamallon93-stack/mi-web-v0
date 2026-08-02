@@ -9,7 +9,7 @@ export function About() {
         <Reveal className="relative">
           <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
             <Image
-              src="/images/valentinam.jpeg"
+              src="/images/valentinam.jpegFF"
               alt="Retrato de Valentina Mallón, peluquera profesional"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
