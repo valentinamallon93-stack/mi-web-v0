@@ -14,7 +14,7 @@ type GalleryItem = {
 }
 
 const items: GalleryItem[] = [
-  { src: '/images/pachibala.jpeg"
+  { src: '/images/pachibala.jpeg'
   { src: '/images/service-color.png', category: 'Color' },
   { src: '/images/service-mechas.png', category: 'Mechas' },
   { src: '/images/service-novia.png', category: 'Novias', span: 'tall' },
